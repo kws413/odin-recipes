@@ -4,3 +4,16 @@ h1 {
     text-align: center;
     font-size: 40px;
 }
+
+li {
+    display: inline;
+}
+
+nav ul {
+    list-style: none;
+    display: inline;
+}
+
+a { 
+    text-decoration: none;
+}
